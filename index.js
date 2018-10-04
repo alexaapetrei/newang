@@ -6,6 +6,7 @@ var options = {
     index: 'index.html'
 
 };
+/* Javascript logssss */
 
 server.use('/', express.static('/home/site/wwwroot', options));
 
